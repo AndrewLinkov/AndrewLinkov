@@ -9,11 +9,11 @@
 ### Навыки:
 [![Java](https://img.shields.io/badge/JavaCore-blue)](https://www.java.com)
 [![Spring](https://img.shields.io/badge/Spring_Framework-brightgreen)](https://spring.io/projects/spring-framework)
-![SELENIDE](https://img.shields.io/badge/SELENIDE-yellow)
-![TestNG](https://img.shields.io/badge/TestNG-green)
-![JUnit](https://img.shields.io/badge/JUnit-red)
-![Allure](https://img.shields.io/badge/Allure-lightgrey)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-orange)
+[![Selenide](https://img.shields.io/badge/Selenide-yellow)](https://ru.selenide.org/)
+[![TestNG](https://img.shields.io/badge/TestNG-green)](https://testng.org/doc/)
+[![JUnit](https://img.shields.io/badge/JUnit-red)](https://junit.org/junit5/)
+[![Allure](https://img.shields.io/badge/Allure-lightgrey)](https://qameta.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-orange)](https://www.postgresql.org/)
 
 ## Мои проекты
 1. Проект: [Консольный калькулятор.](https://github.com/AndrewLinkov/ConsoleCalculator)
