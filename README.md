@@ -18,7 +18,7 @@
 ## Мои проекты
 1. Проект: [Консольный калькулятор.](https://github.com/AndrewLinkov/ConsoleCalculator)
 2. Проект: [Автотест для тестирования сайта M2.ru.](https://github.com/AndrewLinkov/M2.ru_AutoTesting)
-3. Проект: [Web-приложение - Медицинский реестр.](https://github.com/AndrewLinkov/PatientBook)
+3. Проект: [Web-приложение - Книга пациентов.]
 
 
 ## Моя цель
